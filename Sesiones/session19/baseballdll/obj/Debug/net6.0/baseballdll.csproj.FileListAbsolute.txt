@@ -1,0 +1,12 @@
+c:\Users\Alondra\Documents\Primabera 2022\Sesiones\session19\baseballdll\bin\Debug\net6.0\baseballdll.deps.json
+c:\Users\Alondra\Documents\Primabera 2022\Sesiones\session19\baseballdll\bin\Debug\net6.0\baseballdll.dll
+c:\Users\Alondra\Documents\Primabera 2022\Sesiones\session19\baseballdll\bin\Debug\net6.0\baseballdll.pdb
+c:\Users\Alondra\Documents\Primabera 2022\Sesiones\session19\baseballdll\obj\Debug\net6.0\baseballdll.csproj.AssemblyReference.cache
+c:\Users\Alondra\Documents\Primabera 2022\Sesiones\session19\baseballdll\obj\Debug\net6.0\baseballdll.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Alondra\Documents\Primabera 2022\Sesiones\session19\baseballdll\obj\Debug\net6.0\baseballdll.AssemblyInfoInputs.cache
+c:\Users\Alondra\Documents\Primabera 2022\Sesiones\session19\baseballdll\obj\Debug\net6.0\baseballdll.AssemblyInfo.cs
+c:\Users\Alondra\Documents\Primabera 2022\Sesiones\session19\baseballdll\obj\Debug\net6.0\baseballdll.csproj.CoreCompileInputs.cache
+c:\Users\Alondra\Documents\Primabera 2022\Sesiones\session19\baseballdll\obj\Debug\net6.0\baseballdll.dll
+c:\Users\Alondra\Documents\Primabera 2022\Sesiones\session19\baseballdll\obj\Debug\net6.0\refint\baseballdll.dll
+c:\Users\Alondra\Documents\Primabera 2022\Sesiones\session19\baseballdll\obj\Debug\net6.0\baseballdll.pdb
+c:\Users\Alondra\Documents\Primabera 2022\Sesiones\session19\baseballdll\obj\Debug\net6.0\ref\baseballdll.dll

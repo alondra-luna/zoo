@@ -1,0 +1,5 @@
+C:\Users\Alondra\Documents\Primabera 2022\prueba de casa\obj\Debug\net6.0\prueba de casa.csproj.AssemblyReference.cache
+C:\Users\Alondra\Documents\Primabera 2022\prueba de casa\obj\Debug\net6.0\prueba de casa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alondra\Documents\Primabera 2022\prueba de casa\obj\Debug\net6.0\prueba de casa.AssemblyInfoInputs.cache
+C:\Users\Alondra\Documents\Primabera 2022\prueba de casa\obj\Debug\net6.0\prueba de casa.AssemblyInfo.cs
+C:\Users\Alondra\Documents\Primabera 2022\prueba de casa\obj\Debug\net6.0\prueba de casa.csproj.CoreCompileInputs.cache

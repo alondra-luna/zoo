@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "MovieConsole/1.0.0": {
+        "dependencies": {
+          "Movies": "1.0.0"
+        },
+        "runtime": {
+          "MovieConsole.dll": {}
+        }
+      },
+      "Movies/1.0.0": {
+        "runtime": {
+          "Movies.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MovieConsole/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Movies/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

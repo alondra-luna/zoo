@@ -1,0 +1,15 @@
+C:\Users\Alondra\Documents\Primabera 2022\Ejercicio de sesion 6  Photo Album\bin\Debug\net6.0\Ejercicio de sesion 6  Photo Album.exe
+C:\Users\Alondra\Documents\Primabera 2022\Ejercicio de sesion 6  Photo Album\bin\Debug\net6.0\Ejercicio de sesion 6  Photo Album.deps.json
+C:\Users\Alondra\Documents\Primabera 2022\Ejercicio de sesion 6  Photo Album\bin\Debug\net6.0\Ejercicio de sesion 6  Photo Album.runtimeconfig.json
+C:\Users\Alondra\Documents\Primabera 2022\Ejercicio de sesion 6  Photo Album\bin\Debug\net6.0\Ejercicio de sesion 6  Photo Album.dll
+C:\Users\Alondra\Documents\Primabera 2022\Ejercicio de sesion 6  Photo Album\bin\Debug\net6.0\Ejercicio de sesion 6  Photo Album.pdb
+C:\Users\Alondra\Documents\Primabera 2022\Ejercicio de sesion 6  Photo Album\obj\Debug\net6.0\Ejercicio de sesion 6  Photo Album.csproj.AssemblyReference.cache
+C:\Users\Alondra\Documents\Primabera 2022\Ejercicio de sesion 6  Photo Album\obj\Debug\net6.0\Ejercicio de sesion 6  Photo Album.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alondra\Documents\Primabera 2022\Ejercicio de sesion 6  Photo Album\obj\Debug\net6.0\Ejercicio de sesion 6  Photo Album.AssemblyInfoInputs.cache
+C:\Users\Alondra\Documents\Primabera 2022\Ejercicio de sesion 6  Photo Album\obj\Debug\net6.0\Ejercicio de sesion 6  Photo Album.AssemblyInfo.cs
+C:\Users\Alondra\Documents\Primabera 2022\Ejercicio de sesion 6  Photo Album\obj\Debug\net6.0\Ejercicio de sesion 6  Photo Album.csproj.CoreCompileInputs.cache
+C:\Users\Alondra\Documents\Primabera 2022\Ejercicio de sesion 6  Photo Album\obj\Debug\net6.0\Ejercicio de sesion 6  Photo Album.dll
+C:\Users\Alondra\Documents\Primabera 2022\Ejercicio de sesion 6  Photo Album\obj\Debug\net6.0\refint\Ejercicio de sesion 6  Photo Album.dll
+C:\Users\Alondra\Documents\Primabera 2022\Ejercicio de sesion 6  Photo Album\obj\Debug\net6.0\Ejercicio de sesion 6  Photo Album.pdb
+C:\Users\Alondra\Documents\Primabera 2022\Ejercicio de sesion 6  Photo Album\obj\Debug\net6.0\Ejercicio de sesion 6  Photo Album.genruntimeconfig.cache
+C:\Users\Alondra\Documents\Primabera 2022\Ejercicio de sesion 6  Photo Album\obj\Debug\net6.0\ref\Ejercicio de sesion 6  Photo Album.dll

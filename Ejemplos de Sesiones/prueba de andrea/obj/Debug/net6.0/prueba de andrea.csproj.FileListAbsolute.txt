@@ -1,0 +1,15 @@
+C:\Users\Alondra\Documents\Primabera 2022\prueba de andrea\bin\Debug\net6.0\prueba de andrea.exe
+C:\Users\Alondra\Documents\Primabera 2022\prueba de andrea\bin\Debug\net6.0\prueba de andrea.deps.json
+C:\Users\Alondra\Documents\Primabera 2022\prueba de andrea\bin\Debug\net6.0\prueba de andrea.runtimeconfig.json
+C:\Users\Alondra\Documents\Primabera 2022\prueba de andrea\bin\Debug\net6.0\prueba de andrea.dll
+C:\Users\Alondra\Documents\Primabera 2022\prueba de andrea\bin\Debug\net6.0\prueba de andrea.pdb
+C:\Users\Alondra\Documents\Primabera 2022\prueba de andrea\obj\Debug\net6.0\prueba de andrea.csproj.AssemblyReference.cache
+C:\Users\Alondra\Documents\Primabera 2022\prueba de andrea\obj\Debug\net6.0\prueba de andrea.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alondra\Documents\Primabera 2022\prueba de andrea\obj\Debug\net6.0\prueba de andrea.AssemblyInfoInputs.cache
+C:\Users\Alondra\Documents\Primabera 2022\prueba de andrea\obj\Debug\net6.0\prueba de andrea.AssemblyInfo.cs
+C:\Users\Alondra\Documents\Primabera 2022\prueba de andrea\obj\Debug\net6.0\prueba de andrea.csproj.CoreCompileInputs.cache
+C:\Users\Alondra\Documents\Primabera 2022\prueba de andrea\obj\Debug\net6.0\prueba de andrea.dll
+C:\Users\Alondra\Documents\Primabera 2022\prueba de andrea\obj\Debug\net6.0\refint\prueba de andrea.dll
+C:\Users\Alondra\Documents\Primabera 2022\prueba de andrea\obj\Debug\net6.0\prueba de andrea.pdb
+C:\Users\Alondra\Documents\Primabera 2022\prueba de andrea\obj\Debug\net6.0\prueba de andrea.genruntimeconfig.cache
+C:\Users\Alondra\Documents\Primabera 2022\prueba de andrea\obj\Debug\net6.0\ref\prueba de andrea.dll

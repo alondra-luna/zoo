@@ -1,0 +1,15 @@
+C:\Users\Alondra\Documents\Primabera 2022\Sesiones\Quinela 22 listas\bin\Debug\net6.0\Quinela 22 listas.exe
+C:\Users\Alondra\Documents\Primabera 2022\Sesiones\Quinela 22 listas\bin\Debug\net6.0\Quinela 22 listas.deps.json
+C:\Users\Alondra\Documents\Primabera 2022\Sesiones\Quinela 22 listas\bin\Debug\net6.0\Quinela 22 listas.runtimeconfig.json
+C:\Users\Alondra\Documents\Primabera 2022\Sesiones\Quinela 22 listas\bin\Debug\net6.0\Quinela 22 listas.dll
+C:\Users\Alondra\Documents\Primabera 2022\Sesiones\Quinela 22 listas\bin\Debug\net6.0\Quinela 22 listas.pdb
+C:\Users\Alondra\Documents\Primabera 2022\Sesiones\Quinela 22 listas\obj\Debug\net6.0\Quinela 22 listas.csproj.AssemblyReference.cache
+C:\Users\Alondra\Documents\Primabera 2022\Sesiones\Quinela 22 listas\obj\Debug\net6.0\Quinela 22 listas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alondra\Documents\Primabera 2022\Sesiones\Quinela 22 listas\obj\Debug\net6.0\Quinela 22 listas.AssemblyInfoInputs.cache
+C:\Users\Alondra\Documents\Primabera 2022\Sesiones\Quinela 22 listas\obj\Debug\net6.0\Quinela 22 listas.AssemblyInfo.cs
+C:\Users\Alondra\Documents\Primabera 2022\Sesiones\Quinela 22 listas\obj\Debug\net6.0\Quinela 22 listas.csproj.CoreCompileInputs.cache
+C:\Users\Alondra\Documents\Primabera 2022\Sesiones\Quinela 22 listas\obj\Debug\net6.0\Quinela 22 listas.dll
+C:\Users\Alondra\Documents\Primabera 2022\Sesiones\Quinela 22 listas\obj\Debug\net6.0\refint\Quinela 22 listas.dll
+C:\Users\Alondra\Documents\Primabera 2022\Sesiones\Quinela 22 listas\obj\Debug\net6.0\Quinela 22 listas.pdb
+C:\Users\Alondra\Documents\Primabera 2022\Sesiones\Quinela 22 listas\obj\Debug\net6.0\Quinela 22 listas.genruntimeconfig.cache
+C:\Users\Alondra\Documents\Primabera 2022\Sesiones\Quinela 22 listas\obj\Debug\net6.0\ref\Quinela 22 listas.dll

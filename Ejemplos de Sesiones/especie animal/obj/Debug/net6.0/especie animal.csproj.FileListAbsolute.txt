@@ -1,0 +1,5 @@
+C:\Users\Alondra\Documents\Primabera 2022\Ejemplos de Sesiones\especie animal\obj\Debug\net6.0\especie animal.csproj.AssemblyReference.cache
+C:\Users\Alondra\Documents\Primabera 2022\Ejemplos de Sesiones\especie animal\obj\Debug\net6.0\especie animal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alondra\Documents\Primabera 2022\Ejemplos de Sesiones\especie animal\obj\Debug\net6.0\especie animal.AssemblyInfoInputs.cache
+C:\Users\Alondra\Documents\Primabera 2022\Ejemplos de Sesiones\especie animal\obj\Debug\net6.0\especie animal.AssemblyInfo.cs
+C:\Users\Alondra\Documents\Primabera 2022\Ejemplos de Sesiones\especie animal\obj\Debug\net6.0\especie animal.csproj.CoreCompileInputs.cache

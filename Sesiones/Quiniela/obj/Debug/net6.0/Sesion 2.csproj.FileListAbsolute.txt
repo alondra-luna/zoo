@@ -1,0 +1,45 @@
+C:\Users\Alondra\Documents\Primabera 2022\Sesion 2\bin\Debug\net6.0\Sesion 2.exe
+C:\Users\Alondra\Documents\Primabera 2022\Sesion 2\bin\Debug\net6.0\Sesion 2.deps.json
+C:\Users\Alondra\Documents\Primabera 2022\Sesion 2\bin\Debug\net6.0\Sesion 2.runtimeconfig.json
+C:\Users\Alondra\Documents\Primabera 2022\Sesion 2\bin\Debug\net6.0\Sesion 2.dll
+C:\Users\Alondra\Documents\Primabera 2022\Sesion 2\bin\Debug\net6.0\Sesion 2.pdb
+C:\Users\Alondra\Documents\Primabera 2022\Sesion 2\obj\Debug\net6.0\Sesion 2.csproj.AssemblyReference.cache
+C:\Users\Alondra\Documents\Primabera 2022\Sesion 2\obj\Debug\net6.0\Sesion 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alondra\Documents\Primabera 2022\Sesion 2\obj\Debug\net6.0\Sesion 2.AssemblyInfoInputs.cache
+C:\Users\Alondra\Documents\Primabera 2022\Sesion 2\obj\Debug\net6.0\Sesion 2.AssemblyInfo.cs
+C:\Users\Alondra\Documents\Primabera 2022\Sesion 2\obj\Debug\net6.0\Sesion 2.csproj.CoreCompileInputs.cache
+C:\Users\Alondra\Documents\Primabera 2022\Sesion 2\obj\Debug\net6.0\Sesion 2.dll
+C:\Users\Alondra\Documents\Primabera 2022\Sesion 2\obj\Debug\net6.0\refint\Sesion 2.dll
+C:\Users\Alondra\Documents\Primabera 2022\Sesion 2\obj\Debug\net6.0\Sesion 2.pdb
+C:\Users\Alondra\Documents\Primabera 2022\Sesion 2\obj\Debug\net6.0\Sesion 2.genruntimeconfig.cache
+C:\Users\Alondra\Documents\Primabera 2022\Sesion 2\obj\Debug\net6.0\ref\Sesion 2.dll
+C:\Users\Alondra\Documents\Primabera 2022\Sesion 2 (24-03)\bin\Debug\net6.0\Sesion 2.exe
+C:\Users\Alondra\Documents\Primabera 2022\Sesion 2 (24-03)\bin\Debug\net6.0\Sesion 2.deps.json
+C:\Users\Alondra\Documents\Primabera 2022\Sesion 2 (24-03)\bin\Debug\net6.0\Sesion 2.runtimeconfig.json
+C:\Users\Alondra\Documents\Primabera 2022\Sesion 2 (24-03)\bin\Debug\net6.0\Sesion 2.dll
+C:\Users\Alondra\Documents\Primabera 2022\Sesion 2 (24-03)\bin\Debug\net6.0\Sesion 2.pdb
+C:\Users\Alondra\Documents\Primabera 2022\Sesion 2 (24-03)\obj\Debug\net6.0\Sesion 2.csproj.AssemblyReference.cache
+C:\Users\Alondra\Documents\Primabera 2022\Sesion 2 (24-03)\obj\Debug\net6.0\Sesion 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alondra\Documents\Primabera 2022\Sesion 2 (24-03)\obj\Debug\net6.0\Sesion 2.AssemblyInfoInputs.cache
+C:\Users\Alondra\Documents\Primabera 2022\Sesion 2 (24-03)\obj\Debug\net6.0\Sesion 2.AssemblyInfo.cs
+C:\Users\Alondra\Documents\Primabera 2022\Sesion 2 (24-03)\obj\Debug\net6.0\Sesion 2.csproj.CoreCompileInputs.cache
+C:\Users\Alondra\Documents\Primabera 2022\Sesion 2 (24-03)\obj\Debug\net6.0\Sesion 2.dll
+C:\Users\Alondra\Documents\Primabera 2022\Sesion 2 (24-03)\obj\Debug\net6.0\refint\Sesion 2.dll
+C:\Users\Alondra\Documents\Primabera 2022\Sesion 2 (24-03)\obj\Debug\net6.0\Sesion 2.pdb
+C:\Users\Alondra\Documents\Primabera 2022\Sesion 2 (24-03)\obj\Debug\net6.0\Sesion 2.genruntimeconfig.cache
+C:\Users\Alondra\Documents\Primabera 2022\Sesion 2 (24-03)\obj\Debug\net6.0\ref\Sesion 2.dll
+C:\Users\Alondra\Documents\Primabera 2022\Sesiones\Quiniela\bin\Debug\net6.0\Sesion 2.exe
+C:\Users\Alondra\Documents\Primabera 2022\Sesiones\Quiniela\bin\Debug\net6.0\Sesion 2.deps.json
+C:\Users\Alondra\Documents\Primabera 2022\Sesiones\Quiniela\bin\Debug\net6.0\Sesion 2.runtimeconfig.json
+C:\Users\Alondra\Documents\Primabera 2022\Sesiones\Quiniela\bin\Debug\net6.0\Sesion 2.dll
+C:\Users\Alondra\Documents\Primabera 2022\Sesiones\Quiniela\bin\Debug\net6.0\Sesion 2.pdb
+C:\Users\Alondra\Documents\Primabera 2022\Sesiones\Quiniela\obj\Debug\net6.0\Sesion 2.csproj.AssemblyReference.cache
+C:\Users\Alondra\Documents\Primabera 2022\Sesiones\Quiniela\obj\Debug\net6.0\Sesion 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alondra\Documents\Primabera 2022\Sesiones\Quiniela\obj\Debug\net6.0\Sesion 2.AssemblyInfoInputs.cache
+C:\Users\Alondra\Documents\Primabera 2022\Sesiones\Quiniela\obj\Debug\net6.0\Sesion 2.AssemblyInfo.cs
+C:\Users\Alondra\Documents\Primabera 2022\Sesiones\Quiniela\obj\Debug\net6.0\Sesion 2.csproj.CoreCompileInputs.cache
+C:\Users\Alondra\Documents\Primabera 2022\Sesiones\Quiniela\obj\Debug\net6.0\Sesion 2.dll
+C:\Users\Alondra\Documents\Primabera 2022\Sesiones\Quiniela\obj\Debug\net6.0\refint\Sesion 2.dll
+C:\Users\Alondra\Documents\Primabera 2022\Sesiones\Quiniela\obj\Debug\net6.0\Sesion 2.pdb
+C:\Users\Alondra\Documents\Primabera 2022\Sesiones\Quiniela\obj\Debug\net6.0\Sesion 2.genruntimeconfig.cache
+C:\Users\Alondra\Documents\Primabera 2022\Sesiones\Quiniela\obj\Debug\net6.0\ref\Sesion 2.dll
