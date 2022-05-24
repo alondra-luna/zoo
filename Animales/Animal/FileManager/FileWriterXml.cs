@@ -1,6 +1,6 @@
 using System.Xml.Serialization;
 
-namespace Animal;
+namespace Animales;
 
 public class FileWriterXml : IFileWriter
 {

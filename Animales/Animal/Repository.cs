@@ -1,4 +1,4 @@
-namespace Animal;
+namespace Animales;
 public class Repository
 {
     public List<Animal> ListAnimal { get; set; }
@@ -13,7 +13,7 @@ public class Repository
             {
                 // Console.WriterLine(item);
                 var parser = new Parser();
-                var animal = parser.Parser(item);
+                var animal = parser.Parse(item);
                 ListAnimal.Add(animal);
             }
         }
@@ -31,13 +31,15 @@ public class Repository
         }
         return ListAnimal;
     }
-    public List<Animal> GetAnimal (String Tiene_pelo)
+    public List<Animal> GetAnimalWithPelo (bool Tiene_pelo)
     {
         Console.WriteLine("el animal puede tener pelo");
         if(LoadedFile == false)
         {
             throw new Exception("aun no carga el archivo");
         }
-        return ListAnimal.Where(m => m.Name.Contains(Name)).ToList();
+        return ListAnimal.Where(m => m.Tiene_pelo == Tiene_pelo).ToList();
     }
+
+    
 }

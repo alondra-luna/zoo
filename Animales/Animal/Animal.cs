@@ -1,4 +1,4 @@
-namespace Animal;
+namespace Animales;
 
 public class Animal
 {
@@ -18,7 +18,7 @@ public class Animal
    public long Cuantas_patas {get; set;}
    public bool Tiene_cola {get; set;}
    public bool Es_domestico {get; set;}
-   public Clasificacion clasificacion {get; set;}
+   public Clasificacion Clasificacion {get; set;}
 }
 
 

@@ -1,3 +1,4 @@
+namespace Animales;
 public enum Clasificacion
 {
     Mamiferos,
