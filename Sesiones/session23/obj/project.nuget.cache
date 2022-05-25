@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "3ht3UZsDNXGq2UmtIkHFUvQD/+YRo5X0rzB3+kkbTj2vFrj7uqxNc/ZnPqEM2HAyd5hmHAqM718CgXbDyGveBA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Alondra\\Documents\\Primabera 2022\\Sesiones\\session23\\session23.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Alondra\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

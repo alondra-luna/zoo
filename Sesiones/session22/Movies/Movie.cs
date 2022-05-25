@@ -1,10 +1,20 @@
-﻿namespace Movies;
+﻿using Newtonsoft.Json;
+using Newtonsoft.Json.Converters;
+
+
+namespace Movies;
+// POCO Objects - Plain Old CSharp Objects
+// A POCO object is a class that is designed to represent a database table.
+
+
 
 public class Movie
 {
     public long Id { get; set;}
     public string Title { get; set; }
+    [JsonConverter(typeof(StringEnumConverter))]
     public Genre Genre {get;set;}
+    [JsonConverter(typeof(StringEnumConverter))]
     public Original_Language OriginalLanguage { get; set; }
     public string Overview { get; set; }
     public long Popularity {get;set;}

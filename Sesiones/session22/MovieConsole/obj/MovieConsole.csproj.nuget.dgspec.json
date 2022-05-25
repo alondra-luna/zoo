@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Alondra\\Documents\\Primabera 2022\\Sesiones\\session22\\MovieConsole\\MovieConsole.csproj": {}
+    "c:\\Users\\Alondra\\Documents\\Primabera 2022\\Sesiones\\session22\\MovieConsole\\MovieConsole.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Alondra\\Documents\\Primabera 2022\\Sesiones\\session22\\MovieConsole\\MovieConsole.csproj": {
+    "c:\\Users\\Alondra\\Documents\\Primabera 2022\\Sesiones\\session22\\MovieConsole\\MovieConsole.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Alondra\\Documents\\Primabera 2022\\Sesiones\\session22\\MovieConsole\\MovieConsole.csproj",
+        "projectUniqueName": "c:\\Users\\Alondra\\Documents\\Primabera 2022\\Sesiones\\session22\\MovieConsole\\MovieConsole.csproj",
         "projectName": "MovieConsole",
-        "projectPath": "C:\\Users\\Alondra\\Documents\\Primabera 2022\\Sesiones\\session22\\MovieConsole\\MovieConsole.csproj",
+        "projectPath": "c:\\Users\\Alondra\\Documents\\Primabera 2022\\Sesiones\\session22\\MovieConsole\\MovieConsole.csproj",
         "packagesPath": "C:\\Users\\Alondra\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Alondra\\Documents\\Primabera 2022\\Sesiones\\session22\\MovieConsole\\obj\\",
+        "outputPath": "c:\\Users\\Alondra\\Documents\\Primabera 2022\\Sesiones\\session22\\MovieConsole\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Alondra\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Alondra\\Documents\\Primabera 2022\\Sesiones\\session22\\movies\\Movies.csproj": {
-                "projectPath": "C:\\Users\\Alondra\\Documents\\Primabera 2022\\Sesiones\\session22\\movies\\Movies.csproj"
+              "c:\\Users\\Alondra\\Documents\\Primabera 2022\\Sesiones\\session22\\Movies\\Movies.csproj": {
+                "projectPath": "c:\\Users\\Alondra\\Documents\\Primabera 2022\\Sesiones\\session22\\Movies\\Movies.csproj"
               }
             }
           }
@@ -62,14 +62,14 @@
         }
       }
     },
-    "C:\\Users\\Alondra\\Documents\\Primabera 2022\\Sesiones\\session22\\movies\\Movies.csproj": {
+    "c:\\Users\\Alondra\\Documents\\Primabera 2022\\Sesiones\\session22\\Movies\\Movies.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Alondra\\Documents\\Primabera 2022\\Sesiones\\session22\\movies\\Movies.csproj",
+        "projectUniqueName": "c:\\Users\\Alondra\\Documents\\Primabera 2022\\Sesiones\\session22\\Movies\\Movies.csproj",
         "projectName": "Movies",
-        "projectPath": "C:\\Users\\Alondra\\Documents\\Primabera 2022\\Sesiones\\session22\\movies\\Movies.csproj",
+        "projectPath": "c:\\Users\\Alondra\\Documents\\Primabera 2022\\Sesiones\\session22\\Movies\\Movies.csproj",
         "packagesPath": "C:\\Users\\Alondra\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Alondra\\Documents\\Primabera 2022\\Sesiones\\session22\\movies\\obj\\",
+        "outputPath": "c:\\Users\\Alondra\\Documents\\Primabera 2022\\Sesiones\\session22\\Movies\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Alondra\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -97,6 +97,12 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

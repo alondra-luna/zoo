@@ -3,6 +3,7 @@ C:\Users\Alondra\Documents\Primabera 2022\Sesiones\session22\MovieConsole\bin\De
 C:\Users\Alondra\Documents\Primabera 2022\Sesiones\session22\MovieConsole\bin\Debug\net6.0\MovieConsole.runtimeconfig.json
 C:\Users\Alondra\Documents\Primabera 2022\Sesiones\session22\MovieConsole\bin\Debug\net6.0\MovieConsole.dll
 C:\Users\Alondra\Documents\Primabera 2022\Sesiones\session22\MovieConsole\bin\Debug\net6.0\MovieConsole.pdb
+C:\Users\Alondra\Documents\Primabera 2022\Sesiones\session22\MovieConsole\bin\Debug\net6.0\Newtonsoft.Json.dll
 C:\Users\Alondra\Documents\Primabera 2022\Sesiones\session22\MovieConsole\bin\Debug\net6.0\Movies.dll
 C:\Users\Alondra\Documents\Primabera 2022\Sesiones\session22\MovieConsole\bin\Debug\net6.0\Movies.pdb
 C:\Users\Alondra\Documents\Primabera 2022\Sesiones\session22\MovieConsole\obj\Debug\net6.0\MovieConsole.csproj.AssemblyReference.cache
