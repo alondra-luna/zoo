@@ -48,19 +48,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Alondra\\.nuget\\packages\\": {}
+    "C:\\Users\\joser\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\Alondra\\Documents\\Primabera 2022\\Animales\\Animales.csproj",
+      "projectUniqueName": "c:\\Users\\joser\\code\\TRSF\\AlondraLuna\\zoo2\\zoo\\Animales\\Animales.csproj",
       "projectName": "Animales",
-      "projectPath": "c:\\Users\\Alondra\\Documents\\Primabera 2022\\Animales\\Animales.csproj",
-      "packagesPath": "C:\\Users\\Alondra\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\Alondra\\Documents\\Primabera 2022\\Animales\\obj\\",
+      "projectPath": "c:\\Users\\joser\\code\\TRSF\\AlondraLuna\\zoo2\\zoo\\Animales\\Animales.csproj",
+      "packagesPath": "C:\\Users\\joser\\.nuget\\packages\\",
+      "outputPath": "c:\\Users\\joser\\code\\TRSF\\AlondraLuna\\zoo2\\zoo\\Animales\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Alondra\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\joser\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -106,7 +106,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
       }
     }
   }

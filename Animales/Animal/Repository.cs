@@ -9,6 +9,7 @@ public class Repository
         {
             ListAnimal = new List<Animal>();
             var listAnimalString = FileReader.ReadFile(filename);
+            Console.WriteLine(listAnimalString.First());
             foreach (var item in listAnimalString.Skip(1).Take(20))
             {
                 // Console.WriterLine(item);
@@ -16,12 +17,14 @@ public class Repository
                 var animal = parser.Parse(item);
                 ListAnimal.Add(animal);
             }
+            LoadedFile = true;
         }
         catch(Exception ex)
         {
             Console.WriteLine(ex.Message);
+            LoadedFile = false;
         }
-        LoadedFile = true;
+        
     }
     public List<Animal> GetAll ()
     {

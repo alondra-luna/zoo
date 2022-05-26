@@ -38,3 +38,20 @@ C:\Users\Alondra\Documents\Primabera 2022\Animales\bin\Debug\net6.0\Newtonsoft.J
 C:\Users\Alondra\Documents\Primabera 2022\Animales\obj\Debug\net6.0\Animales.csproj.CopyComplete
 C:\Users\Alondra\Documents\Primabera 2022\Animales\obj\Debug\net6.0\Animales.genruntimeconfig.cache
 C:\Users\Alondra\Documents\Primabera 2022\Animales\obj\Debug\net6.0\ref\Animales.dll
+C:\Users\joser\code\TRSF\AlondraLuna\zoo2\zoo\Animales\obj\Debug\net6.0\Animales.csproj.AssemblyReference.cache
+C:\Users\joser\code\TRSF\AlondraLuna\zoo2\zoo\Animales\obj\Debug\net6.0\Animales.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joser\code\TRSF\AlondraLuna\zoo2\zoo\Animales\obj\Debug\net6.0\Animales.AssemblyInfoInputs.cache
+C:\Users\joser\code\TRSF\AlondraLuna\zoo2\zoo\Animales\obj\Debug\net6.0\Animales.AssemblyInfo.cs
+C:\Users\joser\code\TRSF\AlondraLuna\zoo2\zoo\Animales\obj\Debug\net6.0\Animales.csproj.CoreCompileInputs.cache
+C:\Users\joser\code\TRSF\AlondraLuna\zoo2\zoo\Animales\obj\Debug\net6.0\Animales.dll
+C:\Users\joser\code\TRSF\AlondraLuna\zoo2\zoo\Animales\obj\Debug\net6.0\refint\Animales.dll
+C:\Users\joser\code\TRSF\AlondraLuna\zoo2\zoo\Animales\obj\Debug\net6.0\Animales.pdb
+C:\Users\joser\code\TRSF\AlondraLuna\zoo2\zoo\Animales\bin\Debug\net6.0\Animales.exe
+C:\Users\joser\code\TRSF\AlondraLuna\zoo2\zoo\Animales\bin\Debug\net6.0\Animales.deps.json
+C:\Users\joser\code\TRSF\AlondraLuna\zoo2\zoo\Animales\bin\Debug\net6.0\Animales.runtimeconfig.json
+C:\Users\joser\code\TRSF\AlondraLuna\zoo2\zoo\Animales\bin\Debug\net6.0\Animales.dll
+C:\Users\joser\code\TRSF\AlondraLuna\zoo2\zoo\Animales\bin\Debug\net6.0\Animales.pdb
+C:\Users\joser\code\TRSF\AlondraLuna\zoo2\zoo\Animales\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\joser\code\TRSF\AlondraLuna\zoo2\zoo\Animales\obj\Debug\net6.0\Animales.csproj.CopyComplete
+C:\Users\joser\code\TRSF\AlondraLuna\zoo2\zoo\Animales\obj\Debug\net6.0\Animales.genruntimeconfig.cache
+C:\Users\joser\code\TRSF\AlondraLuna\zoo2\zoo\Animales\obj\Debug\net6.0\ref\Animales.dll

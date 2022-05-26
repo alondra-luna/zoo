@@ -6,23 +6,17 @@ public class Parser
         var animal = new Animal();
         var values = line.Split(',');
         animal.Name = values[0];
-        if(Boolean.TryParse(values[1], out var TienePelo))
-            animal.Tiene_pelo = TienePelo;
 
-        if(Enum.TryParse<Clasificacion>(line, out var clasificacionValue)) 
-            animal.Clasificacion = clasificacionValue;
-
-        
-        animal.Name = values[3];
-
-
-
+        animal.Tiene_pelo = values[1] == "1" ? true : false;
+        animal.Tiene_plumas = values[2] == "1" ? true : false;
+ 
+        //wolf,1,0,0,1,0,0,1,1,1,1,0,0,4,1,0,1,1
+       if(Int32.TryParse( values[17], out int classificacionAnimal))
+       {
+            animal.Clasificacion = (Clasificacion)classificacionAnimal;
+       } 
         return animal;
-
-
     }
-
-
 }    
 
    
