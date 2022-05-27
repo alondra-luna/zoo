@@ -13,7 +13,7 @@ public class Animal
    public bool Da_leche {get; set;}
    public bool Puede_volar {get; set;}
    public bool Puede_nadar {get; set;}
-   public bool Es_depredaror {get; set;}
+   public bool Es_depredador {get; set;}
    public bool Tiene_dientes {get; set;}
    public bool Tiene_espinazo {get; set;}
    public bool Respira {get; set;}

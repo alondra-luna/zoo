@@ -1,0 +1,58 @@
+[
+    {
+        "Name": "aardvark",
+        "Tiene_pelo": 1,
+        "Tiene_plunas": 0,
+        "Pone_huevos": 0,
+        "Da_leche": 1,
+        "Puede_volar": 0,
+        "Puede_nadar": 0,
+        "Es_depredador": 1,
+        "Tiene_dientes": 1,
+        "Tiene_espinazo": 1,
+        "Respira": 1,
+        "Es_venenoso": 0,
+        "Tiene_alas": 0,
+        "Cuantas_patas": 4,
+        "Tiene_cola": 0,
+        "Es_domestico": 1
+    },
+    {
+        "Name": "antelope",
+        "Tiene_pelo": 1,
+        "Tiene_plunas": 0,
+        "Pone_huevos": 0,
+        "Da_leche": 1,
+        "Puede_volar": 0,
+        "Puede_nadar": 0,
+        "Es_depredador": 0,
+        "Tiene_dientes": 1,
+        "Tiene_espinazo": 1,
+        "Respira": 1,
+        "Es_venenoso": 0,
+        "Tiene_alas": 0,
+        "Cuantas_patas": 4,
+        "Tiene_cola": 1,
+        "Es_domestico": 0
+
+    },
+    {
+        "Name": "bass",
+        "Tiene_pelo": 0,
+        "Tiene_plunas": 0,
+        "Pone_huevos": 1,
+        "Da_leche": 0,
+        "Puede_volar": 0,
+        "Puede_nadar": 1,
+        "Es_depredador": 1,
+        "Tiene_dientes": 1,
+        "Tiene_espinazo": 1,
+        "Respira": 0,
+        "Es_venenoso": 0, 
+        "Tiene_alas": 1,
+        "Cuantas_patas": 0,
+        "Tiene_cola": 1,
+        "Es_domestico": 0
+
+    }
+]
