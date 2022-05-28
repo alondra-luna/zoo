@@ -1,0 +1,12 @@
+C:\Users\joser\code\TRSF\AlondraLuna\zoo3\zoo\Animales\animal\obj\Debug\net6.0\Animales.csproj.AssemblyReference.cache
+C:\Users\joser\code\TRSF\AlondraLuna\zoo3\zoo\Animales\animal\obj\Debug\net6.0\Animales.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joser\code\TRSF\AlondraLuna\zoo3\zoo\Animales\animal\obj\Debug\net6.0\Animales.AssemblyInfoInputs.cache
+C:\Users\joser\code\TRSF\AlondraLuna\zoo3\zoo\Animales\animal\obj\Debug\net6.0\Animales.AssemblyInfo.cs
+C:\Users\joser\code\TRSF\AlondraLuna\zoo3\zoo\Animales\animal\obj\Debug\net6.0\Animales.csproj.CoreCompileInputs.cache
+C:\Users\joser\code\TRSF\AlondraLuna\zoo3\zoo\Animales\animal\bin\Debug\net6.0\Animales.deps.json
+C:\Users\joser\code\TRSF\AlondraLuna\zoo3\zoo\Animales\animal\bin\Debug\net6.0\Animales.dll
+C:\Users\joser\code\TRSF\AlondraLuna\zoo3\zoo\Animales\animal\bin\Debug\net6.0\Animales.pdb
+C:\Users\joser\code\TRSF\AlondraLuna\zoo3\zoo\Animales\animal\obj\Debug\net6.0\Animales.dll
+C:\Users\joser\code\TRSF\AlondraLuna\zoo3\zoo\Animales\animal\obj\Debug\net6.0\refint\Animales.dll
+C:\Users\joser\code\TRSF\AlondraLuna\zoo3\zoo\Animales\animal\obj\Debug\net6.0\Animales.pdb
+C:\Users\joser\code\TRSF\AlondraLuna\zoo3\zoo\Animales\animal\obj\Debug\net6.0\ref\Animales.dll

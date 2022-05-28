@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "OR1ZrcxqGf5gzSbe9tzo9fd43rvb6r97EDcvTuw7VBKj04YS5T/2FxdmubCXXwZe3S7jp2+R3rMjxrO+lMwBOg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\joser\\code\\TRSF\\AlondraLuna\\zoo3\\zoo\\Animales\\animal\\Animales.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\joser\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

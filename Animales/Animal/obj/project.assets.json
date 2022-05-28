@@ -53,11 +53,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\joser\\code\\TRSF\\AlondraLuna\\zoo3\\zoo\\Animales\\Animales.csproj",
+      "projectUniqueName": "C:\\Users\\joser\\code\\TRSF\\AlondraLuna\\zoo3\\zoo\\Animales\\animal\\Animales.csproj",
       "projectName": "Animales",
-      "projectPath": "c:\\Users\\joser\\code\\TRSF\\AlondraLuna\\zoo3\\zoo\\Animales\\Animales.csproj",
+      "projectPath": "C:\\Users\\joser\\code\\TRSF\\AlondraLuna\\zoo3\\zoo\\Animales\\animal\\Animales.csproj",
       "packagesPath": "C:\\Users\\joser\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\joser\\code\\TRSF\\AlondraLuna\\zoo3\\zoo\\Animales\\obj\\",
+      "outputPath": "C:\\Users\\joser\\code\\TRSF\\AlondraLuna\\zoo3\\zoo\\Animales\\animal\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\joser\\AppData\\Roaming\\NuGet\\NuGet.Config",

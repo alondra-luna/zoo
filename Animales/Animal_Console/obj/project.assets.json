@@ -10,6 +10,19 @@
         "runtime": {
           "lib/netstandard2.0/Newtonsoft.Json.dll": {}
         }
+      },
+      "Animales/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Newtonsoft.Json": "13.0.1"
+        },
+        "compile": {
+          "bin/placeholder/Animales.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Animales.dll": {}
+        }
       }
     }
   },
@@ -40,11 +53,16 @@
         "newtonsoft.json.nuspec",
         "packageIcon.png"
       ]
+    },
+    "Animales/1.0.0": {
+      "type": "project",
+      "path": "../animal/Animales.csproj",
+      "msbuildProject": "../animal/Animales.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
-      "Newtonsoft.Json >= 13.0.1"
+      "Animales >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -53,11 +71,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\joser\\code\\TRSF\\AlondraLuna\\zoo3\\zoo\\Animales\\Animales.csproj",
-      "projectName": "Animales",
-      "projectPath": "c:\\Users\\joser\\code\\TRSF\\AlondraLuna\\zoo3\\zoo\\Animales\\Animales.csproj",
+      "projectUniqueName": "C:\\Users\\joser\\code\\TRSF\\AlondraLuna\\zoo3\\zoo\\Animales\\Animal_Console\\Animal_Console.csproj",
+      "projectName": "Animal_Console",
+      "projectPath": "C:\\Users\\joser\\code\\TRSF\\AlondraLuna\\zoo3\\zoo\\Animales\\Animal_Console\\Animal_Console.csproj",
       "packagesPath": "C:\\Users\\joser\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\joser\\code\\TRSF\\AlondraLuna\\zoo3\\zoo\\Animales\\obj\\",
+      "outputPath": "C:\\Users\\joser\\code\\TRSF\\AlondraLuna\\zoo3\\zoo\\Animales\\Animal_Console\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\joser\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -73,7 +91,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\joser\\code\\TRSF\\AlondraLuna\\zoo3\\zoo\\Animales\\animal\\Animales.csproj": {
+              "projectPath": "C:\\Users\\joser\\code\\TRSF\\AlondraLuna\\zoo3\\zoo\\Animales\\animal\\Animales.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
@@ -85,12 +107,6 @@
     "frameworks": {
       "net6.0": {
         "targetAlias": "net6.0",
-        "dependencies": {
-          "Newtonsoft.Json": {
-            "target": "Package",
-            "version": "[13.0.1, )"
-          }
-        },
         "imports": [
           "net461",
           "net462",

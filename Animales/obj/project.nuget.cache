@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "3kRklEssiTOseevkqVyWq6i5iueQA4rjhQ1h0eTzQd3otqT/6Kq26JS6/THaiw0IWExf+CJfFLHyWuEaJg2vuQ==",
+  "dgSpecHash": "HGhLAtFvXgEJowNfdmdJaP26G1uCzmq26uh03FEfjhjjSW9uElSP/JigWMtE+gzi3384+2+CI8xHDAGumj2+YQ==",
   "success": true,
-  "projectFilePath": "c:\\Users\\Alondra\\Documents\\Primabera 2022\\Animales\\Animales.csproj",
+  "projectFilePath": "c:\\Users\\joser\\code\\TRSF\\AlondraLuna\\zoo3\\zoo\\Animales\\Animales.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Alondra\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+    "C:\\Users\\joser\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
   ],
   "logs": []
 }

@@ -7,6 +7,6 @@ Console.WriteLine( "se cargo el archivo");
 
 
 
-IFileWriter writer = new FileWriterXml();
-writer.Write(Repository.GetAnimalWithPelo(false).ToList(), "animales en exel");
+IFileWriter writer = new FileWriterJson();
+writer.Write(Repository.GetAnimalWithPelo(false).ToList(), "animales.json");
 
