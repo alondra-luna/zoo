@@ -1,12 +1,12 @@
 using Animales;
 
 var Repository = new Repository();
-Repository.LoadFile(@".\zoo.csv" );
+Repository.LoadFile(@".\C:\Users\Alondra\Documents\Primabera 2022\Animales" );
 Console.WriteLine( "se cargo el archivo");
 
 
 
 
-IFileWriter writer = new FileWriterXml();
-writer.Write(Repository.GetAnimalWithPelo(false).ToList(), "animales en exel");
+IFileWriter writer = new FileWriterJson();
+writer.Write(Repository.GetAnimalWithPelo(false).ToList(), "animales.json");
 

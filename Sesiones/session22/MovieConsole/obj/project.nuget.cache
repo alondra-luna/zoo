@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mFEXt9YCpHixuN/DT2+/SPbQl7pTqCZq26FREdsDBDQlH2QXIN3ViORzW99jP6mFe5h1GTffkj3foSlEF8rAug==",
+  "dgSpecHash": "4BhBZ0ySYVv8/Iyca82DDOWEE+ZdzMkp/6gru/kgHvG3nqGYZ3hnw2qKA46N+ZASslehA2s850TmDyBTvvmycw==",
   "success": true,
-  "projectFilePath": "c:\\Users\\Alondra\\Documents\\Primabera 2022\\Sesiones\\session22\\MovieConsole\\MovieConsole.csproj",
+  "projectFilePath": "C:\\Users\\Alondra\\Documents\\Primabera 2022\\Sesiones\\session22\\MovieConsole\\MovieConsole.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Alondra\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
   ],
