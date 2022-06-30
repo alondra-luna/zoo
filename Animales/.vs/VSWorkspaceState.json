@@ -1,10 +1,8 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Animal",
-    "\\AnimalWebApi",
-    "\\AnimalWebApi\\Controllers"
+    "\\Animal_Console"
   ],
-  "SelectedNode": "\\Animal\\Repository.cs",
+  "SelectedNode": "\\Animal_Console\\Program.cs",
   "PreviewInSolutionExplorer": true
 }

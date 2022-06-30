@@ -1,6 +1,7 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
     "C:\\Users\\Alondra\\Documents\\Primabera 2022\\Animales\\animal\\Animales.csproj": {}
   },
   "projects": {
@@ -15,6 +16,22 @@
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Alondra\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
+    "C:\\Users\\joser\\code\\TRSF\\AlondraLuna\\zoo3\\zoo\\Animales\\animal\\Animales.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\joser\\code\\TRSF\\AlondraLuna\\zoo3\\zoo\\Animales\\animal\\Animales.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\joser\\code\\TRSF\\AlondraLuna\\zoo3\\zoo\\Animales\\animal\\Animales.csproj",
+        "projectName": "Animales",
+        "projectPath": "C:\\Users\\joser\\code\\TRSF\\AlondraLuna\\zoo3\\zoo\\Animales\\animal\\Animales.csproj",
+        "packagesPath": "C:\\Users\\joser\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\joser\\code\\TRSF\\AlondraLuna\\zoo3\\zoo\\Animales\\animal\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\joser\\AppData\\Roaming\\NuGet\\NuGet.Config",
+>>>>>>> ed4962572a7df0c98b739ad2ff674f60af669b09
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -60,7 +77,11 @@
               "privateAssets": "all"
             }
           },
+<<<<<<< HEAD
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+=======
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+>>>>>>> ed4962572a7df0c98b739ad2ff674f60af669b09
         }
       }
     }
