@@ -86,16 +86,16 @@ namespace Animal.SqlManager
                                 leche = GetString[4] == "1" ? true : false,
                                 volar = GetString[5] == "1" ? true : false,
                                 acuatico = GetString[6] == "1" ? true : false,
-                                depredador = values[7] == "1" ? true : false,
-                                dientes = values[8] == "1" ? true : false,
-                                espinazo = values[9] == "1" ? true : false,
-                                Respira = values[10] == "1" ? true : false,
-                                venenoso = values[11] == "1" ? true : false,
-                                aletas = values[12] == "1" ? true : false,
-                                cola = values[14] == "1" ? true : false,
-                                domestico = values[15] == "1" ? true : false;
+                                depredador = GetString[7] == "1" ? true : false,
+                                dientes = GetString[8] == "1" ? true : false,
+                                espinazo = GetString[9] == "1" ? true : false,
+                                Respira = GetString[10] == "1" ? true : false,
+                                venenoso = GetString[11] == "1" ? true : false,
+                                aletas = GetString[12] == "1" ? true : false,
+                                cola = GetString[14] == "1" ? true : false,
+                                domestico = GetString[15] == "1" ? true : false;
 
-                            if (Int64.TryParse(values[13], out long resultado))
+                            if (Int64.TryParse(GetString[13], out long resultado))
                             {
                                 animal.Cuantas_patas = resultado;
                             }
