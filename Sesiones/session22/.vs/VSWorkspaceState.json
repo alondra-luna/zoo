@@ -1,8 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\MovieConsole"
+    "\\Movies",
+    "\\Movies\\SqlManager"
   ],
-  "SelectedNode": "\\MovieConsole\\Program.cs",
+  "SelectedNode": "\\Movies\\SqlManager\\SqlRepository.cs",
   "PreviewInSolutionExplorer": false
 }

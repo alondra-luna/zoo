@@ -24,14 +24,14 @@ namespace Animal.SqlManager
         }
 
 
-        public List<Movie> GetAll()
+        public List<Animal> GetAll()
         {
             List<Animal> animal = new List<Animal>();
             using (SqlConnection connection = new SqlConnection(sqlConnectionStringBuilder.ConnectionString))
             {
 
                 connection.Open();
-                String sql = "Name, Tiene_pelo, Tiene_plumas, Pone_huevo, Da_leche, Puede_volar, Puede_nadar";
+                String sql = "select animal_name, [hair-pelo], [feathers-plumas], [eggs-huevos], [milk-leche], [airborne-vuela], [aquatic-acuatico] from zoo";
 
                 using (SqlCommand command = new SqlCommand(sql, connection))
                 {
@@ -42,7 +42,7 @@ namespace Animal.SqlManager
                         {
                             animal.Add(new Animal()
                             {
-                                Name = reader.GetInt32(0),
+                                Name = reader.GetString(0),
                                 pelo = reader.GetString(1),
                                 
                             });
@@ -78,9 +78,34 @@ namespace Animal.SqlManager
                             animal.Add(new Animal()
                             {
                                 Name = reader.GetInt32(0),
-                                pelo = reader.GetString(1),
-                                
-                            });
+                               
+
+                                pelo = GetString(1) == "1" ? true : false,
+                                plumas = GetString[2] == "1" ? true : false,
+                                huevos = GetStrin[3] == "1" ? true : false,
+                                leche = GetString[4] == "1" ? true : false,
+                                volar = GetString[5] == "1" ? true : false,
+                                acuatico = GetString[6] == "1" ? true : false,
+                                depredador = values[7] == "1" ? true : false,
+                                dientes = values[8] == "1" ? true : false,
+                                espinazo = values[9] == "1" ? true : false,
+                                Respira = values[10] == "1" ? true : false,
+                                venenoso = values[11] == "1" ? true : false,
+                                aletas = values[12] == "1" ? true : false,
+                                cola = values[14] == "1" ? true : false,
+                                domestico = values[15] == "1" ? true : false;
+
+                            if (Int64.TryParse(values[13], out long resultado))
+                            {
+                                animal.Cuantas_patas = resultado;
+                            }
+
+
+
+
+                        });
+
+
                         }
                     }
                 }
