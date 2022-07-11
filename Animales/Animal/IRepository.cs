@@ -1,4 +1,4 @@
-namespace Animal
+namespace Animales
 {
     public interface IRepository
     {

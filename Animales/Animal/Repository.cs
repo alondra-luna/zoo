@@ -44,7 +44,7 @@ public class Repository
         return ListAnimal.Where(m => m.Tiene_pelo == Tiene_pelo).ToList();
     }
 
-    public long Create (Animales animal)
+    public long Create (Animal animal)
     {
         throw new NotImplementedException();
     }
