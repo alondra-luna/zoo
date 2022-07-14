@@ -8,7 +8,7 @@ using System.Data.SqlClient;
 
 namespace Animales.SqlManager
 {
-    public class SqlRepository : IRepository
+    public class SqlRepository
     {
         private SqlConnectionStringBuilder sqlConnectionStringBuilder
         {
@@ -56,7 +56,7 @@ namespace Animales.SqlManager
 
         public List<Animal> GetAnimalByName(string Name)
         {
-            List<Animal> animal = new List<Animal>();
+            List<Animal> listadeanimales = new List<Animal>();
             using (SqlConnection connection = new SqlConnection(sqlConnectionStringBuilder.ConnectionString))
             {
 
@@ -68,53 +68,51 @@ namespace Animales.SqlManager
                 {
 
                     SqlParameter NameParam = new SqlParameter("@Name", System.Data.SqlDbType.VarChar);
-                    nameParam.Value = "%" + Name + "%";
-                    maneParam.Direction = System.Data.ParameterDirection.Input;
-                    command.Parameters.Add(nameParam);
+                    NameParam.Value = "%" + Name + "%";
+                    NameParam.Direction = System.Data.ParameterDirection.Input;
+                    command.Parameters.Add(NameParam);
                     using (SqlDataReader reader = command.ExecuteReader())
-                     {
+                    {
                         while (reader.Read())
                         {
-                            animal.Add(new Animal()
+                            listadeanimales.Add(new Animal()
                             {
-                                Name = reader.GetInt32(0),
-                               
-
-                                Tiene_pelo = GetString(1) == "1" ? true : false,
-                                Tiene_plumas = GetString[2] == "1" ? true : false,
-                                Pone_huevos = GetStrin[3] == "1" ? true : false,
-                                Da_leche = GetString[4] == "1" ? true : false,
-                                Puede_volar = GetString[5] == "1" ? true : false,
-                                Puede_nadar = GetString[6] == "1" ? true : false,
-                                Es_depredador = GetString[7] == "1" ? true : false,
-                                Tiene_dientes = GetString[8] == "1" ? true : false,
-                                Tiene_espinazo = GetString[9] == "1" ? true : false,
-                                Respira = GetString[10] == "1" ? true : false,
-                                Es_venenoso = GetString[11] == "1" ? true : false,
-                                Tiene_alas = GetString[12] == "1" ? true : false,
-                                Tiene_cola = GetString[14] == "1" ? true : false,
-                                Es_domestico = GetString[15] == "1" ? true : false,
-
-                            };    
-                         {   
-
-                            if (Int64.TryParse(GetString[13], out long resultado))
+                                Name = reader.GetString(0),
+                                Tiene_pelo = reader.GetString(1) == "1" ? true : false,
+                                Tiene_plumas = reader.GetString(2) == "1" ? true : false,
+                                Pone_huevos = reader.GetString(3) == "1" ? true : false,
+                                Da_leche = reader.GetString(4) == "1" ? true : false,
+                                Puede_volar = reader.GetString(5)== "1" ? true : false,
+                                Puede_nadar = reader.GetString(6) == "1" ? true : false,
+                                Es_depredador = reader.GetString(7) == "1" ? true : false,
+                                Tiene_dientes = reader.GetString(8) == "1" ? true : false,
+                                Tiene_espinazo = reader.GetString(9) == "1" ? true : false,
+                                Respira = reader.GetString(10) == "1" ? true : false,
+                                Es_venenoso = reader.GetString(11) == "1" ? true : false,
+                                Tiene_alas = reader.GetString(12) == "1" ? true : false,
+                                Tiene_cola = reader.GetString(14) == "1" ? true : false,
+                                Es_domestico = reader.GetString(15) == "1" ? true : false
+                            } );
+                             
+                             var Cuantas_patas = 0;
+                         if (Int32.TryParse(reader.GetString(13), out Cuantas_patas))
+                             Cuantas_patas = 0;
+                            
+                                listadeanimales.Add(new Animal()
                             {
-                                animal.Cuantas_patas = resultado;
-                            }
-                         }
+                                Cuantas_patas = Cuantas_patas
+                            });
+                            
 
-
-
-                        };
-
-
+                        }
                      }
-                    }
+                                                   
+                    
                 }
             }
+        
 
-            return animal;
+            return listadeanimales;
         }
 
         public long Create(Animal animal)
@@ -178,7 +176,7 @@ namespace Animales.SqlManager
 
                     SqlCommand sqlCommand = new SqlCommand(SqlCreate, connection);
 
-                    sqlCommand.Parameters.Add(new SqlParameter("@Name", animal.Id));
+                    sqlCommand.Parameters.Add(new SqlParameter("@Name", animal.Name));
 
                     sqlCommand.Parameters.Add(new SqlParameter("@Tiene_pelo", animal.Tiene_pelo));
                     sqlCommand.Parameters.Add(new SqlParameter("@Tiene_plumas", animal.Tiene_plumas));
@@ -189,7 +187,7 @@ namespace Animales.SqlManager
                     sqlCommand.Parameters.Add(new SqlParameter("@Es_domestico", animal.Es_domestico));
                     sqlCommand.Parameters.Add(new SqlParameter("@Tiene_dientes", animal.Tiene_dientes));
                     sqlCommand.Parameters.Add(new SqlParameter("@Tiene_espinazo", animal.Tiene_espinazo));
-                    sqlCommand.Parameters.Add(new SqlParameter("@respira", animal.Respira));
+                    sqlCommand.Parameters.Add(new SqlParameter("@Respira", animal.Respira));
                     sqlCommand.Parameters.Add(new SqlParameter("@Es_venenoso", animal.Es_venenoso));
                     sqlCommand.Parameters.Add(new SqlParameter("@Tiene_alas", animal.Tiene_alas));
                     sqlCommand.Parameters.Add(new SqlParameter("@Cuantas_patas", animal.Cuantas_patas));

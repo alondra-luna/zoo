@@ -1,9 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\AnimalWebApi\\Controllers",
-    "\\Animal\\FileManager"
+    "\\Animal",
+    "\\Animal\\SqlManager"
   ],
-  "SelectedNode": "\\AnimalWebApi",
+  "SelectedNode": "\\Animal\\SqlManager\\SqlRepository.cs",
   "PreviewInSolutionExplorer": false
 }
